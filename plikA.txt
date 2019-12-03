@@ -1,1 +1,2 @@
 zmiana w pliku A
+zmiana2 w pliku A
